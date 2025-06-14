@@ -19,31 +19,18 @@ using modern analytics tools and methodologies.
 
 ### 1. [E-commerce Sales Analysis](./projects/01-retail-sales-analysis)
 **Tools:** SQL, BigQuery, Looker Data Studio  
-**Business Impact:** Identified $2M revenue opportunity through customer segmentation
-
-- Analyzed 500K+ transaction records
-- Developed automated reporting dashboard
-- Delivered actionable recommendations for marketing team
 
 [View Project →](./projects/01-retail-sales-analysis)
 
 ### 2. [Customer Behavior Study](./projects/02-customer-behavior-study)
 **Tools:** Python, Pandas, Matplotlib, Seaborn  
-**Business Impact:** Improved customer retention by 15%
 
-- Cohort analysis of 50K+ customers
-- Predictive modeling for churn prevention
-- Interactive dashboard for stakeholder presentations
 
 [View Project →](./projects/02-customer-behavior-study)
 
 ### 3. [Marketing Performance Dashboard](./projects/03-marketing-dashboard)
 **Tools:** Looker Data Studio, Google Analytics API  
-**Business Impact:** Optimized ad spend efficiency by 25%
 
-- Real-time campaign performance tracking
-- ROI analysis across multiple channels
-- Executive-level reporting automation
 
 [View Project →](./projects/03-marketing-dashboard)
 
