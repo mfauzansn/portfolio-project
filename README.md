@@ -70,9 +70,9 @@ using modern analytics tools and methodologies.
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/mfauznsnugraha)
 - **Email:** your.email@domain.com
-- **Portfolio Website:** [yourwebsite.com](https://yourwebsite.com)
+- **Portfolio Website:** [yourwebsite.com](https://mfauzansn.xyz)
 - **Medium/Blog:** [Link to your articles]
 
 ---
