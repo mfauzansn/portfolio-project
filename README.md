@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm a [current role] with [X years] experience in [industry/domain]. 
+I'm a Data Analyst with 8 years experience in Various Industries. 
 I specialize in transforming raw data into actionable business insights 
 using modern analytics tools and methodologies.
 
@@ -18,7 +18,7 @@ using modern analytics tools and methodologies.
 ## 🚀 Featured Projects
 
 ### 1. [E-commerce Sales Analysis](./projects/01-retail-sales-analysis)
-**Tools:** SQL, BigQuery, Looker Data Studio  
+**Tools:** SQL, Supabase, Looker Data Studio  
 
 [View Project →](./projects/01-retail-sales-analysis)
 
@@ -58,9 +58,8 @@ using modern analytics tools and methodologies.
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/mfauznsnugraha)
-- **Email:** your.email@domain.com
+- **Email:** mfauzansn@gmail.com
 - **Portfolio Website:** [yourwebsite.com](https://mfauzansn.xyz)
-- **Medium/Blog:** [Link to your articles]
 
 ---
 
